@@ -10,6 +10,8 @@ const HeroSection = () => {
             <div className="flex flex-col justify-center items-center">
                <span className="font-be_vietnam_pro text-2xl lg:text-6xl text-transparent bg-clip-text bg-lienar-to-r w-fit from-purple-500 via-pink-400 to-emerald-300 font-bold">
                   Designer & Frontend Developer
+                  Designer & Frontend Developer
+                  Designer & Frontend Developer
                </span>
                <span className="font-be_vietnam_pro text-lg text-gray-500 font-bold">
                   I design and code to solve the problem, and I love what I do.
